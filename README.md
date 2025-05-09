@@ -7,10 +7,10 @@
 
 ## Features
 
-- 🖥️ **Fully Responsive:** Works seamlessly across desktop, tablet, and mobile devices.
-- 🎨 **Modern UI Design:** A clean and user-friendly interface with smooth animations.
-- 🖼️ **NFT Showcase:** Displays digital artwork and NFTs in an interactive gallery.
-- ⚡ **Fast Load Times:** Optimized for quick loading speeds on all devices.
+- 🖥️ **Fully Responsive:** 
+- 🎨 **Modern UI Design:** 
+- 🖼️ **NFT Showcase:** 
+- ⚡ **Fast Load Times:**
 
 
 
