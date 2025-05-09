@@ -1,5 +1,9 @@
 # NFT-Project
->This project is a responsive, modern NFT (Non-Fungible Token) website designed to showcase digital collectibles. It is fully responsive and works across all devices, providing an optimal user experience.
+
+❓ ***What is NFT?***
+
+💎 **NFT Collection:** Showcase and trade unique digital collectibles.
+
 
 ## Features
 
@@ -25,4 +29,4 @@
 
 ## 📷screenshot
 
-  <img src="./screenshot/NFT1" alt="NFT Project Screenshot" class="screenshot">
+<img src="./screenshot/NFT1.png" alt="NFT Project Screenshot" class="screenshot">
