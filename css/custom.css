@@ -43,21 +43,21 @@ body {
   font-family: kalameh;
   font-weight: 900;
   font-style: normal;
-  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff")
+  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff") format("woff");
     format("woff");
 }
 @font-face {
   font-family: kalameh;
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff")
+  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff") format("woff");
     format("woff");
 }
 @font-face {
   font-family: kalameh;
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff")
+  src: url("../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff") format("woff");
     format("woff");
 }
 @font-face {
