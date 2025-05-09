@@ -26,7 +26,8 @@
 ## responsive  by
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<br>
 
-## 📷screenshot
+# 📷screenshot
 
 <img src="./screenshot/NFT1.png" alt="NFT Project Screenshot" class="screenshot">
