@@ -7,10 +7,10 @@
 
 ## Features
 
-- 🖥️ **Fully Responsive:** 
-- 🎨 **Modern UI Design:** 
-- 🖼️ **NFT Showcase:** 
-- ⚡ **Fast Load Times:**
+- 🖥️ **Fully Responsive** 
+- 🎨 **Modern UI Design** 
+- 🖼️ **NFT Showcase** 
+- ⚡ **Fast Load Times**
 
 
 
